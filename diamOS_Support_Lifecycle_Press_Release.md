@@ -4,7 +4,7 @@
 **FOR IMMEDIATE RELEASE**  
 **November 4, 2024**
 
-**Keighley, Bradford –** diam Systems Ltd. is committed to providing its customers with a clear and dependable support strategy for diamOS. We build diamOS upon the robust foundation of Ubuntu Long-Term Support (LTS) releases, ensuring a stable and reliable core for our users. However, it is important for our customers to understand the distinctions between Ubuntu’s support timeline and our own.
+**Keighley, Bradford –** diam Systems is committed to providing its customers with a clear and dependable support strategy for diamOS. We build diamOS upon the robust foundation of Ubuntu Long-Term Support (LTS) releases, ensuring a stable and reliable core for our users. However, it is important for our customers to understand the distinctions between Ubuntu’s support timeline and our own.
 
 ## diamOS and Ubuntu LTS: Two Support Cycles
 
@@ -24,9 +24,9 @@ When diam Systems ends support for a specific diamOS version, users will no long
 
 To keep our users secure, productive, and on the cutting edge of technology, we encourage upgrading to the latest major version of diamOS as new releases become available. Our support strategy is designed to facilitate smooth transitions between versions, making it easier than ever to adopt new features and enhancements while maintaining system reliability.
 
-For additional information, please visit our website or contact our support team at [support@diamsystems.com](mailto:support@diamsystems.com).
+For additional information, please visit our website or contact our support team at [diamspprt@gmail.com](mailto:diamspprt@gmail.com).
 
 ---
 
 ### About diam Systems Ltd.
-diam Systems Ltd., based in Keighley, Bradford, is a forward-thinking technology company specializing in operating systems, enterprise software, and innovative applications. Our flagship product, diamOS, is designed to empower users with a secure, user-friendly Linux-based platform, tailored to meet the diverse needs of modern professionals.
+diam Systems Ltd, based in Keighley, Bradford, is a forward-thinking technology company specializing in operating systems, enterprise software, and innovative applications. Our flagship product, diamOS, is designed to empower users with a secure, user-friendly Linux-based platform, tailored to meet the diverse needs of modern professionals.
