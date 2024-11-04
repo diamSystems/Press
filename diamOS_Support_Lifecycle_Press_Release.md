@@ -28,5 +28,5 @@ For additional information, please visit our website or contact our support team
 
 ---
 
-### About diam Systems Ltd.
-diam Systems Ltd, based in Keighley, Bradford, is a forward-thinking technology company specializing in operating systems, enterprise software, and innovative applications. Our flagship product, diamOS, is designed to empower users with a secure, user-friendly Linux-based platform, tailored to meet the diverse needs of modern professionals.
+### About diam Systems
+diam Systems, based in Keighley, Bradford, is a forward-thinking technology company specializing in operating systems, enterprise software, and innovative applications. Our flagship product, diamOS, is designed to empower users with a secure, user-friendly Linux-based platform, tailored to meet the diverse needs of modern professionals.
