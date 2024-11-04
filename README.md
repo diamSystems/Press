@@ -4,7 +4,7 @@ Welcome to the official press repository for diam Systems Ltd. Here, you’ll fi
 
 ## About diam Systems
 
-diam Systems Ltd., based in Keighley, Bradford, is a technology-driven company specializing in Linux-based operating systems, enterprise software, and innovative digital applications. Our mission is to empower users worldwide with secure, versatile, and user-friendly software solutions.
+diam Systems, based in Keighley, Bradford, is a technology-driven company specializing in Linux-based operating systems, enterprise software, and innovative digital applications. Our mission is to empower users worldwide with secure, versatile, and user-friendly software solutions.
 
 ## Press Releases
 
