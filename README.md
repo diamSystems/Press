@@ -24,7 +24,7 @@ This release provides an in-depth explanation of our support lifecycle strategy 
 
 ## Contact Us
 
-For further inquiries or interview requests, please reach out to our press team at [press@diamsystems.com](mailto:press@diamsystems.com).
+For further inquiries or interview requests, please reach out to our press team at [diamspprt@gmail.com](mailto:diamspprt@gmail.com).
 
 ---
 
