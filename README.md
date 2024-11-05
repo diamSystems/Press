@@ -1,6 +1,6 @@
 # diam Systems - Press Repository
 
-Welcome to the official press repository for diam Systems Ltd. Here, you’ll find our latest press releases, news updates, and important announcements regarding diamOS and our other offerings.
+Welcome to the official press repository for diam Systems. Here, you’ll find our latest press releases, news updates, and important announcements regarding diamOS and our other offerings.
 
 ## About diam Systems
 
