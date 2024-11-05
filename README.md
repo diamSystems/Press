@@ -14,7 +14,7 @@ We are committed to keeping our community, customers, and partners informed with
 
 - **Stay Updated**: Follow this repository to receive notifications about new press releases.
 - **Referencing Content**: You’re welcome to share or reference our press releases, provided they’re attributed to diam Systems Ltd.
-- **Press Inquiries**: For additional information, please contact us at [press@diamsystems.com](mailto:press@diamsystems.com).
+- **Press Inquiries**: For additional information, please contact us at [diamspprt@gmail.com](mailto:diamspprt@gmail.com) With the subject 'PRESS {Subject}'.
 
 ## Current Press Releases
 
