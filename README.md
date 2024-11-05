@@ -28,5 +28,5 @@ For further inquiries or interview requests, please reach out to our press team 
 
 ---
 
-**diam Systems Ltd. © 2024**  
-*Empowering Digital Freedom with Reliable Software Solutions.*
+**diam Systems © 2024**  
+*Think Better.*
